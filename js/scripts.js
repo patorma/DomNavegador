@@ -10,7 +10,7 @@ console.log(title);
 console.log(title2);
 console.log(listItems);
 console.log(secondItems);
-console.log(list.querySelectorAll('li:last-child'));
+console.log(list.querySelector('li:last-child'));
 
 //queremos encontrar uno de los hijos del list
 
